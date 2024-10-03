@@ -1,6 +1,6 @@
-# SQL Project 
+# SQL Projects
 
-Case desenvolvido durante o aprendizado em Análise e Ciência de Dados.
+Cases desenvolvidos durante o aprendizado em Análise e Ciência de Dados.
 
 Sinta-se à vontade para conhecer a minha jornada, e se quiser trocar ideias é só chamar pelos meios de contato.
 
