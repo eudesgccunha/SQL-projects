@@ -1,11 +1,11 @@
 # Planos de ação a partir de análises com SQL
 
-## Contexto
+### Contexto
 
 Análise de aspectos da aquisição de clientes de uma EdTech para verificar o status do crescimento de novos usuários na empresa.
 
 
-## Desenvolvimento
+### Desenvolvimento
 
 O desenvolvimento deste case foi feito no Metabase utilizando funções SQL, algumas delas listadas abaixo:
 
@@ -17,6 +17,14 @@ O desenvolvimento deste case foi feito no Metabase utilizando funções SQL, alg
 - Count
 - Sum
 
-## Entrega
+### Entrega
 
 Dashboard apresentado em pdf (sem interação).
+
+
+
+### Contatos 
+
+[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/eudesgccunha)
+
+Sinta-se à vontade para conhecer a minha jornada, e se quiser trocar ideias é só chamar pelos meios de contato.
